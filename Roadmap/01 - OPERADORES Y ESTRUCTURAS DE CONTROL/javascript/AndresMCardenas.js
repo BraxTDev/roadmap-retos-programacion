@@ -7,7 +7,7 @@ let suma = 5 + 5;// se asigna el valor de la suma a la variable suma
 console.log(suma); // se imprime el valor de la variable suma
 
 //Resta
-let resta = 10 - 5;// se asigna el valor de la resta a la variable resta
+let resta = 10 - 5;// se asigna el valor de la resta a la variable restauu
 console.log(resta); // se imprime el valor de la variable resta
 
 //Multiplicación
